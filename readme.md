@@ -5,7 +5,7 @@
 npm install
 ```
 
-Run to see Vite output at /rollup-output
+Run to see Rollup output at /rollup-output
 ```bash
 npm run rollup
 ```
