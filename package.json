@@ -1,0 +1,12 @@
+{
+	"name": "no-treeshake-repro",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"rollup": "rollup -c",
+		"vite": "vite build"
+	},
+	"devDependencies": {
+		"vite": "^4.3.9"
+	}
+}
